@@ -1,0 +1,19 @@
+
+Using json REST api
+
+- endpoint performance hypothesis
+- factors for testing performance
+
+TCP-KeepAlive
+Pipelining
+Max-Connection
+Overcommit Memory
+RDB Persistence and Append Only File
+Transparent Huge Page
+other redis config measures:
+maxmemory
+maxmemory policy
+loglevel
+timeout
+
+- can use redis-benchmark to test performance of redis Server
